@@ -14,6 +14,16 @@ def game_hash
         :assists => "value",
         :steals => "value",
         :blocks => "value",
+        :slam_dunks => "value"},
+        
+        {:player_name => "value",
+        :number => "value",
+        :shoe => "value",
+        :points => "value",
+        :rebounds => "value",
+        :assists => "value",
+        :steals => "value",
+        :blocks => "value",
         :slam_dunks => "value"}
         ]
 
