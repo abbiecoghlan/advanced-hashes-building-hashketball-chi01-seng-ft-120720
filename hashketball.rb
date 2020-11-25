@@ -6,13 +6,15 @@ def game_hash
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
       :players => [
-        {:player_name => "value"},
-        {:number => "value"},
-        {:shoe => "value"},
-        {:points => "value"},
-        {:rebounds => "value"}
-        {:assists => "value"}
-        {:steals => "value"}
+        {:player_name => "value",
+        :number => "value",
+        :shoe => "value",
+        :points => "value",
+        :rebounds => "value",
+        :assists => "value",
+        :steals => "value",
+        :blocks => "value",
+        :slam_dunks => "value"}
         ]
 
       
