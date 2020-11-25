@@ -27,7 +27,7 @@ def game_hash
         :slam_dunks => 7},
         
          {:player_name => "Brook Lopez",
-        :number => 30,
+        :number => 11,
         :shoe => 14,
         :points => 12,
         :rebounds => 12,
